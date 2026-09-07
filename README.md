@@ -15,10 +15,10 @@
 
 ## ✨ Características Principales
 
-- 🕒 **Reloj en Tiempo Real:** Incorpora un temporizador dinámico en formato de 12 horas (AM/PM) en la barra superior.
+- 🕒 **Reloj en Tiempo Real:** Incorpora un temporizador dinámico en formato de 12 horas (AM/PM) en la barra superior con la libreria time.
 - 💰 **Gestión de Saldo Reactiva:** Control de dinero disponible con alertas visuales temporales en caso de fondos insuficientes.
 - 🪟 **Ventanas Secundarias Seguras (`CTkToplevel`):** Sistema de confirmación de compra modal que evita múltiples instancias abiertas simultáneamente y gestiona el foco de la aplicación.
-- 🎨 **Interfaz Moderna:** Diseño responsivo estructurado con marcos personalizados, tipografías institucionales y soporte nativo para imágenes mediante `Pillow`.
+- 🎨 **Interfaz Moderna:** Diseño responsivo estructurado con marcos personalizados, tipografías institucionales y soporte nativo para imágenes mediante la libreria de `Pillow`.
 
 ---
 
